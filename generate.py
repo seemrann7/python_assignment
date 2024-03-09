@@ -19,6 +19,5 @@ def guess_number():
         else:
             print("Too high! Try again.")
 
-# Example usage:
 print("Welcome to the Number Guessing Game!")
 guess_number()
